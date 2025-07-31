@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Meeting Notes",
+      "content": "Discuss project timeline and deliverables for Q1",
+      "priority": "high",
+      "isDraft": false,
+      "isFavourite": true,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "updatedAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Shopping List",
+      "content": "Milk, Bread, Eggs, Butter",
+      "priority": "low",
+      "isDraft": false,
+      "isFavourite": false,
+      "createdAt": "2024-01-14T15:20:00Z",
+      "updatedAt": "2024-01-14T15:20:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Project Ideas",
+      "content": "1. Mobile app for task management\n2. Web scraping tool\n3. Personal finance tracker",
+      "priority": "medium",
+      "isDraft": true,
+      "isFavourite": false,
+      "createdAt": "2024-01-13T09:15:00Z",
+      "updatedAt": "2024-01-13T09:15:00Z"
+    }
+  ]
+}
